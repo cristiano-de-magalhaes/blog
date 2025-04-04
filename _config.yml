@@ -2,4 +2,5 @@ title: Cristiano de Magalhães
 logo: /assets/img/prof_pic_01.png
 # description: text below image
 # show_downloads: true # or false
-theme: jekyll-theme-minima
+# theme: jekyll-theme-minima
+theme: minima
