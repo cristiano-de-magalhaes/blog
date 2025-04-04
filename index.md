@@ -1,8 +1,6 @@
 ---
 title: ".: blog :."
-<!--title: "Mutual Blog"-->
 image: 'https://avatars.githubusercontent.com/u/68167970?v=4'
-<!--image: 'https://avatars.githubusercontent.com/u/17839354?v=4'-->
 listing:
   - id: posts
     contents: _posts/**/*/index.qmd
@@ -25,9 +23,3 @@ about:
 comments: false
 toc: false
 ---
-<!--
-about:
-  links:
-    - icon: twitter
-      text: Twitter
-      href: "https://twitter.com/lemuelemos" -->
